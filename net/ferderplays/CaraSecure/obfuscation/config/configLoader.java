@@ -1,1 +1,0 @@
-package net.ferderplays.CaraSecure.obfuscation.config;
